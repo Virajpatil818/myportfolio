@@ -90,6 +90,24 @@ img{
     background-color:#eeeeee;
 }
 
+.skills ul li .skill_prog{
+    width: 60%;
+    height: 5px;
+    position: relative;
+}
+.skills ul li .skill_prog span{
+    position: absolute;
+    height: 100%;   
+    background: #2F5A78;
+    padding-right: 50px;
+}
+.skill_name{
+    width: 4px;
+}
+.skill_per{
+    margin-right: 15px;
+} 
+
 .social{
 background-color:rgb(97, 97, 241);
     color: white;
