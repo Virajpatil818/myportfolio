@@ -39,7 +39,13 @@
 body{
     font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
 }
-
+img{
+    float: right;
+}
+.icon{
+    float: left;
+    color: #2F5A78;
+}
 .prof{
     font-size: 20px;
     font-weight: lighter;
